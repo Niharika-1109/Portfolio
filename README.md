@@ -1,6 +1,6 @@
 # Portfolio
 It is a modern, responsive, single-page portfolio website designed to showcase my skills and projects as a tech enthusiast and developer. It was built from scratch using pure **HTML, CSS, and JavaScript** to demonstrate strong foundational frontend abilities.  ### Key Features:
 * **Dynamic UI:** A custom circular cursor, self-typing headline, and smooth fade-in-on-scroll animations.
-* s **Interactive Sections:** An animated "Expertise" section with progress bars and project cards with links to live demos and source code.
+* **Interactive Sections:** An animated "Expertise" section with progress bars and project cards with links to live demos and source code.
 * **Modern Tech:** Built with the `Intersection Observer` API for performant scroll animations.
 * **Responsive Design:** Ensures a great user experience on all devices, from mobile phones to desktops.
